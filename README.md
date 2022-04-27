@@ -1,12 +1,12 @@
 # IBpaper
 
-  [![R-CMD-check](https://github.com/samorso/IBpaper/workflows/R-CMD-check/badge.svg)](https://github.com/samorso/IBpaper/actions)
+  [![R-CMD-check](https://github.com/SMAC-Group/IBpaper/workflows/R-CMD-check/badge.svg)](https://github.com/SMAC-Group/IBpaper/actions)
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> + <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> inside
 
 ## Overview 
 
-This package contains the code we use for the simulations and real data analysis in the paper [Zhang et al. (2022)](https://arxiv.org/pdf/2002.08757.pdf).
+This package contains the code we use for the simulations and real data analysis in the paper [Zhang et al. (2022)](https://arxiv.org/pdf/2204.07907.pdf).
 
 To install this package:
 
